@@ -1,1 +1,1 @@
-# SampEnSignatures
+# Sample Entropy Signatures
