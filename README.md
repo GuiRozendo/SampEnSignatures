@@ -8,4 +8,6 @@ If you use this method on your research, please cite:
 
 [1.](https://doi.org/10.1016/j.eswa.2022.117238) Rozendo, G. B., do Nascimento, M. Z., Roberto, G. F., de Faria, P. R., Silva, A. B., Tosta, T. A. A., & Neves, L. A. (2022). Classification of non-Hodgkin lymphomas based on sample entropy signatures. Expert Systems with Applications, 117238.
 
-[2.](https://doi.org/10.24433/CO.3053768.v1) Guilherme Botazzo Rozendo (2022) Classification of Non-Hodgkin Lymphomas Based on Sample Entropy Signatures [Source Code]. https://doi.org/10.24433/CO.3053768.v1
+[2.](https://doi.org/10.1016/j.simpa.2022.100329) Rozendo, G. B., do Nascimento, M. Z., Roberto, G. F., de Faria, P. R., Silva, A. B., Tosta, T. A. A., & Neves, L. A. (2022). Sample Entropy Signatures: A new way to interpret SampEn values. Software Impacts, 100329.
+
+[3.](https://doi.org/10.24433/CO.3053768.v1) Guilherme Botazzo Rozendo, Marcelo Zanchetta do Nascimento, Guilherme Freire Roberto, Paulo Rogério de Faria, Adriano Barbosa Silva, Thaína Aparecida Azevedo Tosta, Leandro Alves Neves (2022) Classification of Non-Hodgkin Lymphomas Based on Sample Entropy Signatures [Source Code]. https://doi.org/10.24433/CO.3053768.v1
